@@ -11,7 +11,7 @@ const typeDefs = gql`
     author: Autor!
     thumbnail: String!
     length: Int
-    moduleCount: Int
+    modulesCount: Int
   }
 
   type Autor {
